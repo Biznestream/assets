@@ -7334,8 +7334,8 @@ border-radius: var(--menu-radius);
 }
 
 .hks-cards .link-icon {
-    height: 240px;
-    width: 220px;
+  /*  height: 240px;*/
+  /*  width: 220px;*/
     transform: scale(.1);
     transition: transform ease .3s;
     opacity: 0;
@@ -7353,7 +7353,7 @@ border-radius: var(--menu-radius);
     flex-direction: column;
     padding: 20px 25px 10px;
 	min-height: 128px;
-	color: #fff;
+	color: #000;
 }
 
 .hks-cards-meta {
