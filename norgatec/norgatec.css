@@ -7269,7 +7269,7 @@ border-radius: var(--menu-radius);
     background-color: #fff;
 	background-color: var(--main-color);
     overflow: hidden;
-	/*border-radius:16px;*/
+	border-radius: var(--cards-radius);
 }
 
 .hks-cards figure {
